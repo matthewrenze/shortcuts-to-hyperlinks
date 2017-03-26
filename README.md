@@ -8,5 +8,5 @@ ShortcutsToHyperlinks.exe [FolderName]
 ShortcutsToHyperlinks.exe "C:\Folder with Shortcuts"
 
 ## Output
-This console application creates a single file in the source folder called Hyperlinks.html that contains all of the hyperlinks.
+A single HTML file is created in the source folder called Hyperlinks.html that contains all of the shortcuts represented as hyperlinks.
 
